@@ -5,13 +5,15 @@ import CookieBanner from "@/components/CookieBanner";
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="fr">
-      <body>
+    <html lang="fr" className="h-full">
+      <body className="flex flex-col min-h-screen bg-white font-sans antialiased">
         <Navbar />
-        {children}
+        <main className="grow pt-16">
+          {children}
+        </main>
         <Footer />
         <CookieBanner />
       </body>
     </html>
-  )
+  );
 }
