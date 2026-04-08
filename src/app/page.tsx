@@ -4,7 +4,7 @@ export default function Home() {
       <h1 className="text-4xl font-bold text-black dark:text-white">
         CL International - En construction
       </h1>
-      <p className="mt-4 text-zinc-600">Déployé par Psylvie</p>
+      <p className="mt-4 text-zinc-600">Déployé par SylvieDEV</p>
     </div>
   );
 }
