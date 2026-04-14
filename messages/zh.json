@@ -1,0 +1,10 @@
+{
+    "Navbar": {
+        "about": "关于我们",
+        "services": "我们的服务",
+        "contact": "联系我们"
+    },
+    "HomePage": {
+        "title": "你好,朋友"
+    }
+}

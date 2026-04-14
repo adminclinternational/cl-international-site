@@ -1,0 +1,10 @@
+{
+    "Navbar": {
+        "about": "About Us",
+        "services": "Services",
+        "contact": "Contact Us"
+    },
+    "HomePage": {
+        "title": "Hello Friend"
+    }
+}
