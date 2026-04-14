@@ -1,0 +1,10 @@
+{
+    "Navbar": {
+        "about": "À propos",
+        "services": "Services",
+        "contact": "Contact"
+    },
+    "HomePage": {
+        "title": "salut mon ami"
+    }
+}
