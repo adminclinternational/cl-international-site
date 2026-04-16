@@ -1,10 +1,110 @@
 {
+    "--- NAVIGATION ---": "",
     "Navbar": {
         "about": "À propos",
         "services": "Services",
         "contact": "Contact"
     },
+    "--- BUTTON ---": "",
+    "Contact": {
+        "contactUs": "Contactez-nous",
+        "send": "Envoyer",
+        "name": "Nom",
+        "email": "Email",
+        "subject": "Objet",
+        "message": "Message",
+        "error": "Veuillez remplir tous les champs.",
+        "success": "Votre message a bien été envoyé.",
+        "close": "Fermer",
+        "loading": "Envoi en cours...",
+        "sent": "Message envoyé",
+        "errorSend": "Une erreur s'est produite lors de l'envoi du message."
+    },
+    "--- HOME PAGE ---": "",
     "HomePage": {
-        "title": "salut mon ami"
+        "title": "CL INTERNATIONAL",
+        "subTitle": " Optimisez vos achats et boostez votre competitivité grâce à notre expertise."
+    },
+    "--- FOOTER SECTION ---": "",
+    "Footer": {
+        "description": "Expert mondial en trading et sourcing stratégique. Nous connectons les entreprises aux meilleurs centres de production mondiaux avec une sécurité totale.",
+        "navTitle": "Navigation",
+        "home": "Accueil",
+        "about": "À propos",
+        "services": "Services",
+        "legalTitle": "Légal",
+        "legalNotice": "Mentions Légales",
+        "privacy": "Confidentialité",
+        "cookies": "Gestion des cookies",
+        "contactTitle": "Contact",
+        "madeBy": "Réalisé par"
+    },
+    "--- PRIVACY POLICY PAGE ---": "",
+    "Privacy": {
+        "title": "Politique de Confidentialité",
+        "lastUpdate": "Dernière mise à jour"
+    },
+    "--- LEGAL NOTICE PAGE ---": "",
+    "Legal": {
+        "title": "MENTIONS LÉGALES ET CONDITIONS GÉNÉRALES",
+        "intro": "Conformément aux dispositions des Articles 6-III et 19 de la Loi n°2004-575 du 21 juin 2004 pour la Confiance dans l’économie numérique (L.C.E.N.), il est porté à la connaissance des utilisateurs du site clinternational.fr les présentes mentions légales et conditions d'utilisation.",
+        "section1Title": "1. ÉDITION DU SITE",
+        "section1Content": "Le présent site est édité par la société C.L. INTERNATIONAL, SARL au capital de 250 000,00 €.",
+        "address": "Siège social : LE TERTIA II ZI LES MILLES, 5 RUE CHARLES DUCHESNE, 13290 AIX-EN-PROVENCE.",
+        "section2Title": "2. DIRECTION DE LA PUBLICATION",
+        "section2Content": "Le responsable de la publication est Elsa LIM, en sa qualité de Gérante.",
+        "section3Title": "3. CONCEPTION ET RÉALISATION",
+        "section3Content": "Le présent site a été conçu et réalisé par SylvieDev.",
+        "section4Title": "4. HÉBERGEMENT DU SITE",
+        "section4Content": "Le site est hébergé par la société Vercel Inc.",
+        "section5Title": "5. CONDITIONS GÉNÉRALES D'UTILISATION (CGU)",
+        "ipTitle": "Propriété Intellectuelle :",
+        "ipContent": "L'ensemble de ce site (structure, design, textes, logos, images, graphismes) est la propriété exclusive de C.L. INTERNATIONAL, sous réserve des droits de propriété intellectuelle de SylvieDev concernant la conception technique et graphique du site. Toute reproduction ou adaptation est interdite sans autorisation écrite préalable.",
+        "liabTitle": "Limitation de responsabilité :",
+        "liabContent": "L'éditeur s'efforce d'assurer l'exactitude des informations. Toutefois, il ne peut être tenu responsable des omissions ou des erreurs de mise à jour. L'utilisateur utilise ces informations sous sa responsabilité exclusive.",
+        "section6Title": "6. CONDITIONS GÉNÉRALES DE VENTE (CGV)",
+        "section6Content": "Les prestations de service et de négoce international fournies par la société sont régies par nos Conditions Générales de Vente.",
+        "cgvLink": "👉 CLIQUEZ ICI POUR CONSULTER NOS CGV (PDF)",
+        "section7Title": "7. DROIT APPLICABLE",
+        "section7Content": "Tout litige en relation avec l'utilisation du site est soumis au droit français. Il est fait attribution exclusive de juridiction aux tribunaux compétents d'Aix-en-Provence."
+    },
+    "Features": {
+        "title": "Notre Expertise Mondiale",
+        "global": {
+            "title": "Sourcing Global",
+            "description": "Nous trouvons les meilleurs fournisseurs à travers le monde pour vos besoins spécifiques."
+        },
+        "sourcing": {
+            "title": "Contrôle Qualité",
+            "description": "Une inspection rigoureuse pour garantir la conformité de chaque marchandise."
+        },
+        "logistics": {
+            "title": "Logistique Totale",
+            "description": "Transport maritime, aérien et routier avec un suivi en temps réel."
+        },
+        "compliance": {
+            "title": "Douanes & Sécurité",
+            "description": "Gestion complète des formalités douanières et sécurisation de vos flux."
+        }
+    },
+    "About": {
+        "mainTitle": "NOUS VOUS ACCOMPAGNONS DANS LA REUSSITE DE VOTRE PROJET D'APPROVISIONNEMENT ET DE NEGOCE INTERNATIONAL !",
+        "location": "Basé à Aix-en-Provence • Depuis 1999",
+        "history": "CL INTERNATIONAL est une entreprise stratégique située au cœur du pôle d’activités d’Aix-en-Provence. Créée en 1999 par Jimmy et Carina LIM, l'entreprise repose sur plus de 25 ans de « Business experience ».",
+        "evolution": "Dès l’origine, nous avons accompagné la distribution de produits diversifiés (vaisselle, robinetterie, vins...). Pour répondre à la demande d'optimisation de nos clients vers l'Asie, nous avons déployé une cellule de sourcing spécialisée s'appuyant sur un réseau solide de professionnels.",
+        "mission": "Aujourd’hui, nous mettons en œuvre le négoce international pour répondre précisément à vos besoins d’approvisionnement avec une prestation souple et adaptable, de la conception à la livraison.",
+        "productsTitle": "Expertise Produits",
+        "productList": {
+            "packaging": "Emballages",
+            "textile": "Textile",
+            "wood": "Grumes de bois",
+            "food": "Alimentaire",
+            "furniture": "Mobilier",
+            "perfume": "Parfums",
+            "leather": "Maroquinerie",
+            "industrial": "Moules industriels",
+            "construction": "Matériels de construction"
+        },
+        "flexibility": "Une gamme de produits sans cesse élargie pour répondre aux demandes ponctuelles et modulaires."
     }
 }

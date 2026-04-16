@@ -1,13 +1,24 @@
-export default function LegalNotice() {
+import { setRequestLocale, getTranslations } from "next-intl/server";
+
+
+export default async function LegalNotice({
+    params
+}: {
+    params: Promise<{ locale: string }>
+}) {
+    const { locale } = await params;
+    setRequestLocale(locale);
+    const t = await getTranslations('Legal');
+
     return (
         <main className="max-w-4xl mx-auto px-6 py-24 sm:py-32">
             <h1 className="text-3xl font-bold text-gray-900 mb-8 border-b pb-4">
-                MENTIONS LÉGALES ET CONDITIONS GÉNÉRALES
+                {t('title')}
             </h1>
 
             <div className="prose prose-blue max-w-none text-gray-700 space-y-8">
                 <p className="italic text-sm">
-                    Conformément aux dispositions des Articles 6-III et 19 de la Loi n°2004-575 du 21 juin 2004 pour la Confiance dans l’économie numérique (L.C.E.N.), il est porté à la connaissance des utilisateurs du site clinternational.fr les présentes mentions légales et conditions d'utilisation.
+                    {t('intro')}
                 </p>
 
                 <section>

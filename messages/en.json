@@ -1,10 +1,110 @@
 {
+    "--- NAVIGATION ---": "",
     "Navbar": {
         "about": "About Us",
         "services": "Services",
-        "contact": "Contact Us"
+        "contact": "Contact"
     },
+    "--- BUTTON ---": "",
+    "Contact": {
+        "contactUs": "Contact us",
+        "send": "Send",
+        "name": "Name",
+        "email": "Email",
+        "subject": "Subject",
+        "message": "Message",
+        "error": "Please fill in all fields.",
+        "success": "Your message has been successfully sent.",
+        "close": "Close",
+        "loading": "Sending...",
+        "sent": "Message sent",
+        "errorSend": "An error occurred while sending the message."
+    },
+    "--- HOME PAGE ---": "",
     "HomePage": {
-        "title": "Hello Friend"
+        "title": "CL INTERNATIONAL",
+        "subTitle": "Optimize your purchases and boost your competitiveness with our expertise"
+    },
+    "--- FOOTER SECTION ---": "",
+    "Footer": {
+        "description": "Global expert in trading and strategic sourcing. We connect businesses to the world's best production centers with total security.",
+        "navTitle": "Navigation",
+        "home": "Home",
+        "about": "About Us",
+        "services": "Services",
+        "legalTitle": "Legal",
+        "legalNotice": "Legal Notice",
+        "privacy": "Privacy Policy",
+        "cookies": "Cookie Management",
+        "contactTitle": "Contact",
+        "madeBy": "Made by"
+    },
+    "--- PRIVACY POLICY PAGE ---": "",
+    "Privacy": {
+        "title": "Privacy Policy",
+        "lastUpdate": "Last updated"
+    },
+    "--- LEGAL NOTICE PAGE ---": "",
+    "Legal": {
+        "title": "LEGAL NOTICE AND TERMS & CONDITIONS",
+        "intro": "In accordance with the provisions of Articles 6-III and 19 of Law No. 2004-575 of June 21, 2004 for Confidence in the Digital Economy (L.C.E.N.), users of the clinternational.fr site are hereby informed of these legal notices and conditions of use.",
+        "section1Title": "1. SITE EDITION",
+        "section1Content": "This website is published by C.L. INTERNATIONAL, a SARL with a capital of €250,000.00.",
+        "address": "Registered office: LE TERTIA II ZI LES MILLES, 5 RUE CHARLES DUCHESNE, 13290 AIX-EN-PROVENCE, FRANCE.",
+        "section2Title": "2. PUBLICATION DIRECTION",
+        "section2Content": "The person responsible for publication is Elsa LIM, as Manager.",
+        "section3Title": "3. DESIGN AND DEVELOPMENT",
+        "section3Content": "This site was designed and developed by SylvieDev.",
+        "section4Title": "4. SITE HOSTING",
+        "section4Content": "The site is hosted by Vercel Inc.",
+        "section5Title": "5. GENERAL TERMS OF USE",
+        "ipTitle": "Intellectual Property:",
+        "ipContent": "The entirety of this site (structure, design, texts, logos, images, graphics) is the exclusive property of C.L. INTERNATIONAL, subject to the intellectual property rights of SylvieDev regarding the technical and graphic design of the site. Any reproduction or adaptation is prohibited without prior written authorization.",
+        "liabTitle": "Limitation of Liability:",
+        "liabContent": "The publisher strives to ensure the accuracy of the information. However, it cannot be held responsible for omissions or update errors. The user uses this information under their exclusive responsibility.",
+        "section6Title": "6. GENERAL TERMS AND CONDITIONS OF SALE",
+        "section6Content": "The service and international trading services provided by the company are governed by our General Terms and Conditions of Sale.",
+        "cgvLink": "👉 CLICK HERE TO CONSULT OUR TERMS (PDF)",
+        "section7Title": "7. APPLICABLE LAW",
+        "section7Content": "Any dispute in connection with the use of the site is subject to French law. Exclusive jurisdiction is given to the competent courts of Aix-en-Provence."
+    },
+    "Features": {
+        "title": "Our Global Expertise",
+        "global": {
+            "title": "Global Sourcing",
+            "description": "We identify and connect you with the best suppliers worldwide to meet your specific requirements."
+        },
+        "sourcing": {
+            "title": "Quality Control",
+            "description": "Rigorous inspection processes to ensure the compliance and quality of every shipment."
+        },
+        "logistics": {
+            "title": "Total Logistics",
+            "description": "Ocean, air, and road freight solutions with real-time tracking and optimization."
+        },
+        "compliance": {
+            "title": "Customs & Security",
+            "description": "Comprehensive management of customs formalities and securing your international trade flows."
+        }
+    },
+    "About": {
+        "mainTitle": "WE SUPPORT YOU IN THE SUCCESS OF YOUR INTERNATIONAL SOURCING AND TRADING PROJECTS!",
+        "location": "Based in Aix-en-Provence • Since 1999",
+        "history": "CL INTERNATIONAL is a strategic company located in the heart of the Aix-en-Provence business hub. Founded in 1999 by Jimmy and Carina LIM, the company is built on over 25 years of \"Business experience.\"",
+        "evolution": "From the beginning, we have supported the distribution of diverse products (disposable tableware, industrial valves, wines & spirits...). To meet our clients' demands for sourcing optimization in Asia, we deployed a specialized sourcing unit backed by a solid professional network.",
+        "mission": "Today, CL INTERNATIONAL implements international trading to meet our clients' procurement needs with flexible and adaptable services, from design to final delivery.",
+        "productsTitle": "Product Expertise",
+        "productList": {
+            "packaging": "Packaging",
+            "textile": "Textile",
+            "wood": "Timber logs",
+            "food": "Food products",
+            "furniture": "Furniture",
+            "perfume": "Perfumes",
+            "leather": "Leather goods",
+            "industrial": "Industrial molds",
+            "construction": "Construction materials"
+        },
+        "flexibility": "A constantly expanding range of products to meet specific and modular requests."
     }
 }
