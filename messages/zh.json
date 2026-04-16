@@ -1,10 +1,110 @@
 {
+    "--- NAVIGATION ---": "",
     "Navbar": {
         "about": "关于我们",
-        "services": "我们的服务",
+        "services": "服务项目",
         "contact": "联系我们"
     },
+    "--- BUTTON ---": "",
+    "Contact": {
+        "contactUs": "联系我们",
+        "send": "发送",
+        "name": "名字",
+        "email": "邮箱",
+        "subject": "主题",
+        "message": "信息",
+        "error": "请填写所有字段。",
+        "success": "您的信息已成功发送。",
+        "close": "关闭",
+        "loading": "发送中...",
+        "sent": "信息已发送",
+        "errorSend": "发送信息时出错。"
+    },
+    "--- HOME PAGE ---": "",
     "HomePage": {
-        "title": "你好,朋友"
+        "title": "CL国际",
+        "subTitle": "借助我们的专业知识，优化您的采购并提升您的竞争力。"
+    },
+    "--- FOOTER SECTION ---": "",
+    "Footer": {
+        "description": "全球贸易与战略采购专家。我们将企业与全球最优质的生产中心无缝对接，确保全程安全可靠。",
+        "navTitle": "导航",
+        "home": "首页",
+        "about": "关于我们",
+        "services": "服务项目",
+        "legalTitle": "法律信息",
+        "legalNotice": "法律声明",
+        "privacy": "隐私政策",
+        "cookies": "Cookie 管理",
+        "contactTitle": "联系方式",
+        "madeBy": "制作人"
+    },
+    "--- PRIVACY POLICY PAGE ---": "",
+    "Privacy": {
+        "title": "隐私政策",
+        "lastUpdate": "最后更新时间"
+    },
+    "--- LEGAL NOTICE PAGE ---": "",
+    "Legal": {
+        "title": "法律声明与通用条款",
+        "intro": "根据 2004 年 6 月 21 日关于数字经济信心的第 2004-575 号法律 (L.C.E.N.) 第 6-III 条和第 19 条的规定，现向 clinternational.fr 网站用户告知本法律声明及使用条件。",
+        "section1Title": "1. 网站出版",
+        "section1Content": "本网站由 C.L. INTERNATIONAL 公司出版，该公司为私人有限责任公司 (SARL)，注册资本为 250,000.00 欧元。",
+        "address": "总部地址：LE TERTIA II ZI LES MILLES, 5 RUE CHARLES DUCHESNE, 13290 AIX-EN-PROVENCE, FRANCE.",
+        "section2Title": "2. 出版负责人",
+        "section2Content": "出版负责人为 Elsa LIM 女士，任职经理。",
+        "section3Title": "3. 设计与制作",
+        "section3Content": "本网站由 SylvieDev 设计并制作。",
+        "section4Title": "4. 网站托管",
+        "section4Content": "本网站托管于 Vercel Inc. 公司。",
+        "section5Title": "5. 通用使用条件 (CGU)",
+        "ipTitle": "知识产权：",
+        "ipContent": "本网站的所有内容（结构、设计、文本、徽标、图像、图形）均为 C.L. INTERNATIONAL 的专属财产，但关于网站技术和图形设计的知识产权归 SylvieDev 所有。未经事先书面许可，禁止任何复制或改编。",
+        "liabTitle": "责任限制：",
+        "liabContent": "出版商努力确保信息的准确性。但是，对于遗漏或更新错误不承担责任。用户在自行承担责任的情况下使用这些信息。",
+        "section6Title": "6. 通用销售条款 (CGV)",
+        "section6Content": "公司提供的服务及国际贸易业务均受我们的通用销售条款约束。",
+        "cgvLink": "👉 点击此处查阅我们的通用销售条款 (PDF)",
+        "section7Title": "7. 适用法律",
+        "section7Content": "与使用本网站有关的任何争议均受法国法律管辖。艾克斯-普罗旺斯 (Aix-en-Provence) 具有管辖权的法院拥有专属管辖权。"
+    },
+    "Features": {
+        "title": "我们的全球专业知识",
+        "global": {
+            "title": "全球采购",
+            "description": "我们为您在全球范围内寻找并对接最优质的供应商，满足您的特定需求。"
+        },
+        "sourcing": {
+            "title": "质量控制",
+            "description": "严格的检验流程，确保每一批货物的合规性和高质量。"
+        },
+        "logistics": {
+            "title": "全面物流",
+            "description": "提供海运、空运及陆运解决方案，并配备实时物流跟踪。"
+        },
+        "compliance": {
+            "title": "海关与安全",
+            "description": "全面管理报关手续，为您提供国际贸易流程的安全保障。"
+        }
+    },
+    "About": {
+        "mainTitle": "我们助力您在国际采购与贸易项目中取得成功！",
+        "location": "总部位于普罗旺斯地区艾克斯 • 始于1999年",
+        "history": "CL INTERNATIONAL 是一家战略性贸易公司，坐落于普罗旺斯地区艾克斯业务中心。公司由 Jimmy 和 Carina LIM 于1999年创立，拥有超过25年的“商务实战经验”。",
+        "evolution": "自成立以来，我们一直致力于多元化产品的分销（包括一次性餐具、工业阀门、葡萄酒与烈酒等）。为了满足客户优化亚洲采购的需求，我们依托强大的专业网络，建立了专门的采购部门。",
+        "mission": "今天，CL INTERNATIONAL 开展国际贸易业务，精准满足客户的供货需求。我们提供从设计到交付的灵活且定制化的全方位服务。",
+        "productsTitle": "产品专业领域",
+        "productList": {
+            "packaging": "包装材料",
+            "textile": "纺织品",
+            "wood": "原木",
+            "food": "食品",
+            "furniture": "家具",
+            "perfume": "香水",
+            "leather": "皮革制品",
+            "industrial": "工业模具",
+            "construction": "建筑材料"
+        },
+        "flexibility": "产品范围不断扩大，以满足各种临时性或模块化的采购需求。"
     }
 }

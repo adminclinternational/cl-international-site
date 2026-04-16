@@ -2,17 +2,13 @@
 
 import { useState } from 'react';
 import { Link, usePathname } from '@/i18n/routing';
-import { useLocale, useTranslations } from 'next-intl'; // Importation du hook de traduction
+import { useLocale, useTranslations } from 'next-intl';
 
 export default function Navbar() {
     const [isOpen, setIsOpen] = useState(false);
     const locale = useLocale();
     const pathname = usePathname();
-
-    // Initialisation des traductions pour le namespace "Navbar"
     const t = useTranslations('Navbar');
-    console.log('Langue actuelle :', locale);
-    console.log('Traduction test :', t('about'));
 
     return (
         <nav className="fixed w-full z-50 bg-white/80 backdrop-blur-md border-b border-gray-100 font-sans">
