@@ -1,5 +1,4 @@
 import { useTranslations } from 'next-intl';
-// Import des icônes
 import { Globe, Truck, Search, ShieldCheck } from 'lucide-react';
 
 const Features = () => {
@@ -8,19 +7,19 @@ const Features = () => {
     const services = [
         {
             icon: <Globe className="w-10 h-10" />,
-            key: 'global' // Sourcing International
+            key: 'global'
         },
         {
             icon: <Search className="w-10 h-10" />,
-            key: 'sourcing' // Contrôle Qualité
+            key: 'sourcing'
         },
         {
             icon: <Truck className="w-10 h-10" />,
-            key: 'logistics' // Transport & Logistique
+            key: 'logistics'
         },
         {
             icon: <ShieldCheck className="w-10 h-10" />,
-            key: 'compliance' // Douanes & Conformité
+            key: 'compliance'
         }
     ];
 
@@ -28,7 +27,7 @@ const Features = () => {
         <section className="py-24 bg-white">
             <div className="max-w-7xl mx-auto px-6">
 
-                {/* TITRE DE SECTION - On garde le style "CL International" */}
+                {/* TITRE DE SECTION - */}
                 <div className="mb-20">
                     <div className="w-16 h-1.5 bg-[#8B0000] mb-6" />
                     <h2 className="text-4xl md:text-5xl font-black text-gray-900 uppercase tracking-tighter">

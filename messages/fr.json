@@ -3,7 +3,16 @@
     "Navbar": {
         "about": "À propos",
         "services": "Services",
-        "contact": "Contact"
+        "contact": "Contact",
+        "expertises": "Expertises",
+        "expertiseItems": {
+            "wine": "Vins & spiritueux",
+            "industry": "Industrie & BTP",
+            "luxury": "Luxe & packaging",
+            "tech": "Electronique & High Tech",
+            "design": "Mobilier & Design",
+            "legal": "Audit & Juridique"
+        }
     },
     "--- BUTTON ---": "",
     "Contact": {
@@ -88,6 +97,17 @@
         }
     },
     "About": {
+        "seeExpertise": "Découvrir notre expertise",
+        "categories": {
+            "wine": "Expertise logistique dédiée au transport délicat et à la conservation de vos crus.",
+            "industry": "L'approvisionnement robuste de vos chantiers et la gestion de vos équipements lourds.",
+            "luxury": "L'exigence du détail et la sécurisation de vos marchandises à haute valeur ajoutée.",
+            "tech": "Réactivité et précision pour le sourcing de composants et de technologies de pointe.",
+            "design": "Une gestion soignée de vos volumes et une livraison adaptée aux pièces d'exception.",
+            "legal": "L'accompagnement réglementaire et la sécurisation contractuelle de vos échanges mondiaux."
+        },
+        "sourcing": "Sourcing",
+        "seeMore": "En savoir plus",
         "mainTitle": "NOUS VOUS ACCOMPAGNONS DANS LA REUSSITE DE VOTRE PROJET D'APPROVISIONNEMENT ET DE NEGOCE INTERNATIONAL !",
         "location": "Basé à Aix-en-Provence • Depuis 1999",
         "history": "CL INTERNATIONAL est une entreprise stratégique située au cœur du pôle d’activités d’Aix-en-Provence. Créée en 1999 par Jimmy et Carina LIM, l'entreprise repose sur plus de 25 ans de « Business experience ».",
@@ -106,5 +126,65 @@
             "construction": "Matériels de construction"
         },
         "flexibility": "Une gamme de produits sans cesse élargie pour répondre aux demandes ponctuelles et modulaires."
+    },
+    "Expertise": {
+        "headerTag": "Expertises de Pointe",
+        "headerTitle": "Une maîtrise multisectorielle sans frontières",
+        "sections": {
+            "wine": {
+                "title": "Vins & Spiritueux",
+                "desc": "Leader dans l'accompagnement des domaines viticoles pour l'exportation vers l'Asie et l'Amérique du Nord. Nous ne transportons pas seulement des bouteilles, nous sécurisons la valeur de vos crus et l'intégrité de votre image de marque à l'international.",
+                "items": {
+                    "logistics": "Logistique \"Thermo-Control\" : Utilisation de conteneurs isolés (Reefer) et solutions anti-choc thermique pour préserver les qualités organoleptiques.",
+                    "customs": "Ingénierie Douanière : Gestion complexe des droits d'accises, des licences d'importation et de la conformité des étiquetages locaux.",
+                    "protection": "Protection des Appellations : Veille active contre la contrefaçon et sécurisation juridique de vos noms de domaines et marques sur les marchés cibles."
+                }
+            },
+            "industry": {
+                "title": "Industrie, BTP & Énergie",
+                "desc": "Sourcing de composants critiques et matériaux de structure répondant aux normes de sécurité européennes les plus strictes. Nous faisons le pont entre l'ingénierie occidentale et la puissance productive asiatique.",
+                "items": {
+                    "molds": "Usinage & Moules : Ingénierie de moules d'injection acier haute performance et usinage CNC de précision (Aluminium, Inox, Titane).",
+                    "construction": "Second Œuvre : Sourcing de menuiseries, vitrages et structures certifiés CE, adaptés aux contraintes du bâtiment moderne.",
+                    "inspection": "Inspection AQL Niveau II : Validation technique en usine avec rapports vidéo en direct et tests de résistance mécanique."
+                }
+            },
+            "luxury": {
+                "title": "Luxury Packaging & Cosmétique",
+                "desc": "Sublimer vos produits tout en garantissant une supply chain éthique et durable. Nous collaborons avec les maisons de luxe pour transformer le packaging en une expérience sensorielle.",
+                "items": {
+                    "premium": "Multimatériaux Premium : Coffrets bois laqué, métal brossé, carton rigide avec finitions haute couture (dorure, gaufrage).",
+                    "cosmetic": "Solutions Cosmétiques : Flaconnage verre et systèmes de pompes airless garantissant l'intégrité de vos formules.",
+                    "eco": "Sourcing Éco-responsable : Intégration de matières recyclées (RPET) et biosourcées (fibres de canne à sucre, bambou)."
+                }
+            },
+            "tech": {
+                "title": "Électronique & High-Tech",
+                "desc": "Intégration de composants critiques et assemblage de produits finis. Nous gérons la complexité technologique tout en protégeant rigoureusement votre propriété intellectuelle.",
+                "items": {
+                    "sourcing": "Sourcing Composants : Approvisionnement de cartes PCB, puces et assemblages CMS/SMT même en période de tension sur les stocks mondiaux.",
+                    "compliance": "Conformité Radicale : Certification systématique RoHS, REACH et respect strict des normes DEEE pour une mise sur le marché sécurisée.",
+                    "tests": "Tests Unitaires : Mise en place de protocoles de tests fonctionnels unitaires en sortie de ligne de production pour un taux de défectuosité proche de zéro."
+                }
+            },
+            "design": {
+                "title": "Mobilier & Design d'Intérieur",
+                "desc": "Accompagnement des architectes et chaînes hôtelières dans la fabrication de mobilier sur-mesure (FF&E). Nous transformons vos plans d'aménagement en réalités tangibles.",
+                "items": {
+                    "contract": "Standards Contract : Fabrication de mobilier d'hôtellerie répondant aux exigences de résistance et de durabilité pour un usage intensif.",
+                    "essences": "Gestion des Essences : Contrôle strict de la provenance des bois et respect des certifications environnementales (FSC, PEFC).",
+                    "fire": "Ignifugation : Traitement des mousses et tissus conformément aux normes anti-feu (M1, BS 5852) pour les établissements recevant du public."
+                }
+            },
+            "legal": {
+                "title": "Audit & Sauvegarde Juridique",
+                "desc": "Parce que le sourcing international est un métier de risque, nous blindons vos contrats et vos relations fournisseurs pour garantir la pérennité de votre entreprise.",
+                "items": {
+                    "contractual": "Sécurisation Contractuelle : Rédaction de contrats d'exclusivité et clauses de non-divulgation (NDA) adaptés aux juridictions locales.",
+                    "financial": "Intelligence Financière : Audit complet de la santé financière des usines pour anticiper tout risque de défaillance pendant la production.",
+                    "mediation": "Médiation & Litiges : En cas d'aléa, nos équipes locales interviennent immédiatement pour négocier et résoudre les litiges à la source."
+                }
+            }
+        }
     }
 }
