@@ -3,7 +3,16 @@
     "Navbar": {
         "about": "About Us",
         "services": "Services",
-        "contact": "Contact"
+        "contact": "Contact",
+        "expertises": "Expertises",
+        "expertiseItems": {
+            "wine": "Wines & spirits",
+            "industry": "Industry & BTP",
+            "luxury": "Luxury & packaging",
+            "tech": "Electronics & High Tech",
+            "design": "Furniture & Design",
+            "legal": "Audit & Legal"
+        }
     },
     "--- BUTTON ---": "",
     "Contact": {
@@ -88,6 +97,17 @@
         }
     },
     "About": {
+        "seeExpertise": "Discover expertise",
+        "categories": {
+            "wine": "Dedicated logistics expertise for the delicate transport and preservation of your vintages.",
+            "industry": "Robust supply for your construction sites and management of your heavy equipment.",
+            "luxury": "Attention to detail and securing your high-value goods.",
+            "tech": "Responsiveness and precision for sourcing high-tech components and technologies.",
+            "design": "Careful volume management and delivery tailored to exceptional pieces.",
+            "legal": "Regulatory support and contractual securing of your global exchanges."
+        },
+        "sourcing": "Sourcing",
+        "seeMore": "See more",
         "mainTitle": "WE SUPPORT YOU IN THE SUCCESS OF YOUR INTERNATIONAL SOURCING AND TRADING PROJECTS!",
         "location": "Based in Aix-en-Provence • Since 1999",
         "history": "CL INTERNATIONAL is a strategic company located in the heart of the Aix-en-Provence business hub. Founded in 1999 by Jimmy and Carina LIM, the company is built on over 25 years of \"Business experience.\"",
@@ -106,5 +126,65 @@
             "construction": "Construction materials"
         },
         "flexibility": "A constantly expanding range of products to meet specific and modular requests."
+    },
+    "Expertise": {
+        "headerTag": "Cutting-Edge Expertise",
+        "headerTitle": "Multisectoral mastery without borders",
+        "sections": {
+            "wine": {
+                "title": "Wines & Spirits",
+                "desc": "Leader in supporting vineyards for export to Asia and North America. We don't just transport bottles; we secure the value of your vintages and the integrity of your brand image internationally.",
+                "items": {
+                    "logistics": "Thermo-Control Logistics: Use of insulated containers (Reefer) and thermal shock solutions to preserve organoleptic qualities.",
+                    "customs": "Customs Engineering: Complex management of excise duties, import licenses, and local labeling compliance.",
+                    "protection": "Appellation Protection: Active monitoring against counterfeiting and legal securing of domain names and trademarks in target markets."
+                }
+            },
+            "industry": {
+                "title": "Industry, Construction & Energy",
+                "desc": "Sourcing of critical components and structural materials meeting the strictest European safety standards. We bridge the gap between Western engineering and Asian productive power.",
+                "items": {
+                    "molds": "Machining & Molds: Engineering of high-performance steel injection molds and precision CNC machining (Aluminum, Stainless Steel, Titanium).",
+                    "construction": "Finishing Works: Sourcing of CE-certified joinery, glazing, and structures adapted to modern building constraints.",
+                    "inspection": "Level II AQL Inspection: On-site technical factory validation with live video reports and mechanical resistance testing."
+                }
+            },
+            "luxury": {
+                "title": "Luxury Packaging & Cosmetics",
+                "desc": "Enhancing your products while guaranteeing an ethical and sustainable supply chain. We collaborate with luxury houses to transform packaging into a sensory experience.",
+                "items": {
+                    "premium": "Premium Multi-materials: Lacquered wood boxes, brushed metal, rigid cardboard with high-fashion finishes (gilding, embossing).",
+                    "cosmetic": "Cosmetic Solutions: Glass bottling and airless pump systems guaranteeing the integrity of your formulas.",
+                    "eco": "Eco-responsible Sourcing: Integration of recycled (RPET) and bio-sourced materials (sugar cane fibers, bamboo)."
+                }
+            },
+            "tech": {
+                "title": "Electronics & High-Tech",
+                "desc": "Integration of critical components and final product assembly. We manage technological complexity while rigorously protecting your intellectual property.",
+                "items": {
+                    "sourcing": "Component Sourcing: Supply of PCB boards, chips, and SMT/CMS assemblies even during global stock tensions.",
+                    "compliance": "Strict Compliance: Systematic RoHS, REACH certification and strict adherence to WEEE standards for secure market entry.",
+                    "tests": "Unit Testing: Implementation of functional unit testing protocols at the end of the production line for near-zero defect rates."
+                }
+            },
+            "design": {
+                "title": "Furniture & Interior Design",
+                "desc": "Supporting architects and hotel chains in the manufacture of custom furniture (FF&E). We transform your layout plans into tangible realities.",
+                "items": {
+                    "contract": "Contract Standards: Manufacture of hospitality furniture meeting the requirements of resistance and durability for intensive use.",
+                    "essences": "Wood Management: Strict control of wood origin and compliance with environmental certifications (FSC, PEFC).",
+                    "fire": "Fireproofing: Treatment of foams and fabrics in accordance with fire safety standards (M1, BS 5852) for public establishments."
+                }
+            },
+            "legal": {
+                "title": "Audit & Legal Safeguard",
+                "desc": "Because international sourcing is a risky business, we reinforce your contracts and supplier relations to guarantee the sustainability of your company.",
+                "items": {
+                    "contractual": "Contractual Security: Drafting of exclusivity agreements and non-disclosure agreements (NDA) adapted to local jurisdictions.",
+                    "financial": "Financial Intelligence: Full audit of the financial health of factories to anticipate any risk of failure during production.",
+                    "mediation": "Mediation & Disputes: In case of issues, our local teams intervene immediately to negotiate and resolve disputes at the source."
+                }
+            }
+        }
     }
 }
