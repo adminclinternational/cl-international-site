@@ -4,14 +4,19 @@
         "about": "À propos",
         "services": "Services",
         "contact": "Contact",
-        "expertises": "Expertises",
+        "expertises": "Nos Gammes",
         "expertiseItems": {
-            "wine": "Vins & spiritueux",
-            "industry": "Industrie & BTP",
-            "luxury": "Luxe & packaging",
-            "tech": "Electronique & High Tech",
-            "design": "Mobilier & Design",
-            "legal": "Audit & Juridique"
+            "kraft": "Papier & Kraft",
+            "pulp": "Pulpe Végétale",
+            "wood": "Gamme Bois",
+            "pet": "Gamme PET",
+            "cocktail": "Cocktail & Réutilisable",
+            "compliance": "Normes & Certifications"
+        },
+        "serviceItems": {
+            "offers": "Nos offres de services",
+            "benefits": "Bénéfices clients",
+            "references": "Nos réalisations et références"
         }
     },
     "--- BUTTON ---": "",
@@ -32,11 +37,11 @@
     "--- HOME PAGE ---": "",
     "HomePage": {
         "title": "CL INTERNATIONAL",
-        "subTitle": " Optimisez vos achats et boostez votre competitivité grâce à notre expertise."
+        "subTitle": "Optimisez vos achats et boostez votre compétitivité grâce à notre expertise en emballages alimentaires certifiés."
     },
     "--- FOOTER SECTION ---": "",
     "Footer": {
-        "description": "Expert mondial en trading et sourcing stratégique. Nous connectons les entreprises aux meilleurs centres de production mondiaux avec une sécurité totale.",
+        "description": "Expert mondial en trading et sourcing stratégique d'emballages alimentaires. Nous connectons les entreprises aux meilleurs centres de production avec une sécurité totale.",
         "navTitle": "Navigation",
         "home": "Accueil",
         "about": "À propos",
@@ -85,7 +90,7 @@
         },
         "sourcing": {
             "title": "Contrôle Qualité",
-            "description": "Une inspection rigoureuse pour garantir la conformité de chaque marchandise."
+            "description": "Une inspection rigoureuse pour garantir la conformité sanitaire et environnementale."
         },
         "logistics": {
             "title": "Logistique Totale",
@@ -97,94 +102,264 @@
         }
     },
     "About": {
-        "seeExpertise": "Découvrir notre expertise",
+        "eyebrow": "Gamme Emballages & Vaisselle",
+        "title": "Emballages alimentaires, vaisselle et arts de la table",
+        "p1": "Parmi les différentes gammes proposées par CL INTERNATIONAL, notre offre dédiée aux emballages alimentaires et à la vaisselle professionnelle rassemble assiettes, gobelets, contenants kraft, fibres végétales, couverts bois, solutions PET et articles événementiels.",
+        "p2": "Elle est conçue pour les professionnels de la restauration, de la vente à emporter et de l'événementiel, avec une attention particulière portée aux exigences réglementaires et sanitaires.",
+        "otherRangesNote": "Vous recherchez une autre gamme ou un autre produit hors emballages ?",
+        "otherRangesCta": "Échanger avec notre équipe",
+        "seeExpertise": "Découvrir nos gammes",
         "categories": {
-            "wine": "Expertise logistique dédiée au transport délicat et à la conservation de vos crus.",
-            "industry": "L'approvisionnement robuste de vos chantiers et la gestion de vos équipements lourds.",
-            "luxury": "L'exigence du détail et la sécurisation de vos marchandises à haute valeur ajoutée.",
-            "tech": "Réactivité et précision pour le sourcing de composants et de technologies de pointe.",
-            "design": "Une gestion soignée de vos volumes et une livraison adaptée aux pièces d'exception.",
-            "legal": "L'accompagnement réglementaire et la sécurisation contractuelle de vos échanges mondiaux."
+            "kraft": "Gobelets, pasta box, salad bowls et boîtes pâtissières éco-conçus.",
+            "pulp": "Vaisselle en fibre moulée compostable (assiettes, gobelets, bacs GN).",
+            "wood": "Couverts, assiettes et pics cocktail en bois certifié FSC double cire.",
+            "pet": "Emballages transparents haute résistance, sans BPA, sans PFAS et anti-buée.",
+            "cocktail": "Vaisselle événementielle réutilisable (PP/PS) certifiée 20 lavages.",
+            "compliance": "Garantie stricte des normes alimentaires, REACH, EUDR et sans PFAS."
         },
         "sourcing": "Sourcing",
         "seeMore": "En savoir plus",
-        "mainTitle": "NOUS VOUS ACCOMPAGNONS DANS LA REUSSITE DE VOTRE PROJET D'APPROVISIONNEMENT ET DE NEGOCE INTERNATIONAL !",
+        "mainTitle": "NOUS VOUS ACCOMPAGNONS DANS L'APPROVISIONNEMENT D'EMBALLAGES ALIMENTAIRES CERTIFIÉS !",
         "location": "Basé à Aix-en-Provence • Depuis 1999",
-        "history": "CL INTERNATIONAL est une entreprise stratégique située au cœur du pôle d’activités d’Aix-en-Provence. Créée en 1999 par Jimmy et Carina LIM, l'entreprise repose sur plus de 25 ans de « Business experience ».",
-        "evolution": "Dès l’origine, nous avons accompagné la distribution de produits diversifiés (vaisselle, robinetterie, vins...). Pour répondre à la demande d'optimisation de nos clients vers l'Asie, nous avons déployé une cellule de sourcing spécialisée s'appuyant sur un réseau solide de professionnels.",
-        "mission": "Aujourd’hui, nous mettons en œuvre le négoce international pour répondre précisément à vos besoins d’approvisionnement avec une prestation souple et adaptable, de la conception à la livraison.",
-        "productsTitle": "Expertise Produits",
+        "history": "CL INTERNATIONAL est une entreprise stratégique située au cœur du pôle d’activités d’Aix-en-Provence. Créée en 1999 par Jimmy et Carina LIM, l'entreprise repose sur plus de 25 ans d'expérience dans le négoce international.",
+        "evolution": "Spécialisés dans le sourcing et la distribution d'emballages alimentaires et de vaisselle professionnelle, nous sélectionnons les meilleures unités de production en Asie pour répondre aux exigences des professionnels de la restauration, du snacking et de l'événementiel.",
+        "mission": "Aujourd’hui, nous assurons un approvisionnement fiable, sur-mesure et 100 % conforme aux réglementations environnementales et sanitaires européennes les plus strictes.",
+        "productsTitle": "Nos Solutions Packaging",
         "productList": {
-            "packaging": "Emballages",
-            "textile": "Textile",
-            "wood": "Grumes de bois",
-            "food": "Alimentaire",
-            "furniture": "Mobilier",
-            "perfume": "Parfums",
-            "leather": "Maroquinerie",
-            "industrial": "Moules industriels",
-            "construction": "Matériels de construction"
+            "cups": "Gobelets & Verrines",
+            "boxes": "Pasta Box & Boîtes Snacking",
+            "bowls": "Salad Bowls & Assiettes",
+            "gn": "Bacs Gastronormes (GN)",
+            "cutlery": "Couverts Bois & Réutilisables",
+            "pastry": "Boîtes Pâtissières",
+            "pet": "Contenants PET Anti-buée",
+            "cocktail": "Gamme Cocktail & Traiteur",
+            "custom": "Sourcing Sur-Mesure"
         },
-        "flexibility": "Une gamme de produits sans cesse élargie pour répondre aux demandes ponctuelles et modulaires."
+        "flexibility": "Une gamme complète d'emballages jetables, compostables et réutilisables adaptée aux contraintes de la vente à emporter et de la restauration."
     },
     "Expertise": {
-        "headerTag": "Expertises de Pointe",
-        "headerTitle": "Une maîtrise multisectorielle sans frontières",
+        "headerTag": "Catalogue & Certifications",
+        "headerTitle": "Des gammes d'emballages conformes aux normes européennes",
         "sections": {
-            "wine": {
-                "title": "Vins & Spiritueux",
-                "desc": "Leader dans l'accompagnement des domaines viticoles pour l'exportation vers l'Asie et l'Amérique du Nord. Nous ne transportons pas seulement des bouteilles, nous sécurisons la valeur de vos crus et l'intégrité de votre image de marque à l'international.",
+            "kraft": {
+                "title": "Gamme Papier & Kraft",
+                "desc": "Solutions d'emballage en carton et papier kraft dédiées à la restauration rapide, au snacking et à la pâtisserie, alliant résistance mécanique et respect de l'environnement.",
                 "items": {
-                    "logistics": "Logistique \"Thermo-Control\" : Utilisation de conteneurs isolés (Reefer) et solutions anti-choc thermique pour préserver les qualités organoleptiques.",
-                    "customs": "Ingénierie Douanière : Gestion complexe des droits d'accises, des licences d'importation et de la conformité des étiquetages locaux.",
-                    "protection": "Protection des Appellations : Veille active contre la contrefaçon et sécurisation juridique de vos noms de domaines et marques sur les marchés cibles."
+                    "products": "Produits : Gobelets, pasta box, salad bowls, boîtes à gâteaux et emballages snacking.",
+                    "compost": "Certifications Environnementales : Certifié FSC, conforme EUDR (zéro déforestation), Plastic Free, OK Compost Home & Industrial.",
+                    "safety": "Sécurité Sanitaire : Certificat d'alimentarité garanti, 100 % sans PFAS (No PFAS), sans BPA, conforme REACH et POPs."
                 }
             },
-            "industry": {
-                "title": "Industrie, BTP & Énergie",
-                "desc": "Sourcing de composants critiques et matériaux de structure répondant aux normes de sécurité européennes les plus strictes. Nous faisons le pont entre l'ingénierie occidentale et la puissance productive asiatique.",
+            "pulp": {
+                "title": "Gamme Pulpe Végétale",
+                "desc": "Vaisselle moulée issue de fibres végétales naturelles, idéale pour la restauration collective, les traiteurs et la vente à emporter chaude ou froide.",
                 "items": {
-                    "molds": "Usinage & Moules : Ingénierie de moules d'injection acier haute performance et usinage CNC de précision (Aluminium, Inox, Titane).",
-                    "construction": "Second Œuvre : Sourcing de menuiseries, vitrages et structures certifiés CE, adaptés aux contraintes du bâtiment moderne.",
-                    "inspection": "Inspection AQL Niveau II : Validation technique en usine avec rapports vidéo en direct et tests de résistance mécanique."
+                    "products": "Produits : Assiettes, gobelets et bacs Gastronormes (GN).",
+                    "compost": "Labels Compost : Certification TÜV OK Compost Home & Industrial, garantie 100 % sans plastique (Plastic Free).",
+                    "safety": "Conformité Sanitaire : Contact alimentaire certifié, garantie sans PFAS (PFAS Free), conforme aux règlements REACH et POPs."
                 }
             },
-            "luxury": {
-                "title": "Luxury Packaging & Cosmétique",
-                "desc": "Sublimer vos produits tout en garantissant une supply chain éthique et durable. Nous collaborons avec les maisons de luxe pour transformer le packaging en une expérience sensorielle.",
+            "wood": {
+                "title": "Gamme Bois",
+                "desc": "Alternative naturelle, élégante et robuste pour remplacer le plastique à usage unique lors de vos prestations traiteurs, événements et ventes à emporter.",
                 "items": {
-                    "premium": "Multimatériaux Premium : Coffrets bois laqué, métal brossé, carton rigide avec finitions haute couture (dorure, gaufrage).",
-                    "cosmetic": "Solutions Cosmétiques : Flaconnage verre et systèmes de pompes airless garantissant l'intégrité de vos formules.",
-                    "eco": "Sourcing Éco-responsable : Intégration de matières recyclées (RPET) et biosourcées (fibres de canne à sucre, bambou)."
+                    "products": "Produits : Couverts en bois, assiettes et accessoires cocktail.",
+                    "treatment": "Finition Haute Qualité : Traitement double cire pour un confort en bouche optimal et une résistance accrue à l'humidité.",
+                    "certifications": "Traçabilité & Sécurité : Bois issu de forêts gérées durablement (certification FSC) et certificat d'alimentarité complet."
                 }
             },
-            "tech": {
-                "title": "Électronique & High-Tech",
-                "desc": "Intégration de composants critiques et assemblage de produits finis. Nous gérons la complexité technologique tout en protégeant rigoureusement votre propriété intellectuelle.",
+            "pet": {
+                "title": "Gamme PET Haute Clarté",
+                "desc": "Contenants transparents conçus pour sublimer la présentation des préparations froides, salades et desserts tout en assurant une conservation optimale.",
                 "items": {
-                    "sourcing": "Sourcing Composants : Approvisionnement de cartes PCB, puces et assemblages CMS/SMT même en période de tension sur les stocks mondiaux.",
-                    "compliance": "Conformité Radicale : Certification systématique RoHS, REACH et respect strict des normes DEEE pour une mise sur le marché sécurisée.",
-                    "tests": "Tests Unitaires : Mise en place de protocoles de tests fonctionnels unitaires en sortie de ligne de production pour un taux de défectuosité proche de zéro."
+                    "visibility": "Traitement Anti-Buée : Visibilité parfaite du produit en vitrine réfrigérée sans condensation.",
+                    "safety": "Formulation Saine : Garanti sans Bisphénol A (BPA Free) et sans PFAS (PFAS Free).",
+                    "compliance": "Normes Alimentaires : Conforme aux exigences européennes strictes pour le contact alimentaire direct."
                 }
             },
-            "design": {
-                "title": "Mobilier & Design d'Intérieur",
-                "desc": "Accompagnement des architectes et chaînes hôtelières dans la fabrication de mobilier sur-mesure (FF&E). Nous transformons vos plans d'aménagement en réalités tangibles.",
+            "cocktail": {
+                "title": "Gamme Cocktail & Réutilisable",
+                "desc": "Vaisselle événementielle durable conçue pour répondre aux obligations légales de réemploi tout en conservant une esthétique soignée.",
                 "items": {
-                    "contract": "Standards Contract : Fabrication de mobilier d'hôtellerie répondant aux exigences de résistance et de durabilité pour un usage intensif.",
-                    "essences": "Gestion des Essences : Contrôle strict de la provenance des bois et respect des certifications environnementales (FSC, PEFC).",
-                    "fire": "Ignifugation : Traitement des mousses et tissus conformément aux normes anti-feu (M1, BS 5852) pour les établissements recevant du public."
+                    "products": "Produits : Couverts réutilisables en PP (polypropylène), gobelets en PS réutilisables et verrines plastiques.",
+                    "durability": "Haute Résistance : Testé et certifié pour résister à au moins 20 cycles de lavage en machine professionnelle.",
+                    "safety": "Sécurité Sanitaire : Tests d'alimentarité validés et formulation garantie sans BPA."
                 }
             },
-            "legal": {
-                "title": "Audit & Sauvegarde Juridique",
-                "desc": "Parce que le sourcing international est un métier de risque, nous blindons vos contrats et vos relations fournisseurs pour garantir la pérennité de votre entreprise.",
+            "compliance": {
+                "title": "Contrôle Qualité & Conformité Réglementaire",
+                "desc": "Parce que la réglementation sur les emballages alimentaires est exigeante, nous auditons chaque usine et vérifions l'intégralité des certificats avant expédition.",
                 "items": {
-                    "contractual": "Sécurisation Contractuelle : Rédaction de contrats d'exclusivité et clauses de non-divulgation (NDA) adaptés aux juridictions locales.",
-                    "financial": "Intelligence Financière : Audit complet de la santé financière des usines pour anticiper tout risque de défaillance pendant la production.",
-                    "mediation": "Médiation & Litiges : En cas d'aléa, nos équipes locales interviennent immédiatement pour négocier et résoudre les litiges à la source."
+                    "sanitary": "Sécurité Chimique : Contrôle systématique de l'absence de substances nocives (PFAS Free, BPA Free, REACH, POPs).",
+                    "ecology": "Traçabilité Durable : Vérification des certificats FSC, EUDR et des labels de compostabilité TÜV (Home & Industrial).",
+                    "audit": "Inspection en Usine : Validation des tests mécaniques (résistance lavage, anti-buée) et contrôle qualité avant embarquement."
                 }
             }
         }
+    },
+    "Stats": {
+        "experience": {
+            "label": "Années d'expérience",
+            "sub": "Expertise métier depuis 1999"
+        },
+        "factories": {
+            "label": "Usines auditées",
+            "sub": "En Asie et à l'international"
+        },
+        "containers": {
+            "label": "Conteneurs gérés",
+            "sub": "Expédiés et livrés en sécurité"
+        },
+        "reactivity": {
+            "label": "Réactivité moyenne",
+            "sub": "Chiffrage et devis sur-mesure"
+        }
+    },
+    "CompanyIntro": {
+        "eyebrow": "Basé à Aix-en-Provence • Depuis 1999",
+        "title": "Nous vous accompagnons dans la réussite de vos projets d'approvisionnement et de négoce international",
+        "p1": "Implantée sur le pôle d'activités d'Aix-en-Provence, à proximité de Marseille, CL INTERNATIONAL est spécialisée dans l'import-export et le sourcing international depuis sa création en 1999 par Jimmy et Carina LIM.",
+        "p2": "Forte de plus de 25 ans d'expérience, l'entreprise accompagne ses clients dans la distribution et l'optimisation de leurs achats, notamment vers l'Asie, grâce à un solide réseau de partenaires et une cellule de sourcing dédiée.",
+        "p3": "Notre prestation est souple et adaptable : généralement de la conception à la livraison, mais nous répondons aussi à des demandes ponctuelles et modulaires. Au fil du temps, nos services se sont ouverts à de nombreux domaines : emballages, textile, grumes de bois, alimentaire, mobilier, parfums, maroquinerie, moules industriels ou matériels de construction.",
+        "foundersCaption": "Jimmy et Carina LIM, fondateurs de CL INTERNATIONAL",
+        "meetingCaption": "Échanges et coordination des projets chez CL INTERNATIONAL",
+        "teamEyebrow": "Votre équipe experte",
+        "teamTitle": "Votre partenaire pour une chaîne d'approvisionnement rentable",
+        "teamP1": "CL INTERNATIONAL voit le jour grâce à Jimmy et Carina LIM en 1999. Un couple original et « touche-à-tout » d'entrepreneurs qui ont d'abord développé des réussites professionnelles dans différents domaines (restauration, vente, etc.) avant de se centrer sur leur secteur de prédilection : le commerce international.",
+        "teamP2": "À travers leurs origines, Carina et Jimmy incarnent la fusion de deux pays, la Chine et la Suède, et de deux continents : l'Europe et l'Asie.",
+        "teamP3": "Petite particularité, CL INTERNATIONAL est le fruit d'une aventure familiale qui implique d'autres membres de la famille LIM. Depuis 2011, David, leur fils, rejoint l'aventure en tant que responsable commercial puis directeur commercial. Puis, en 2019, Jérôme LIM intègre à son tour l'équipe comme responsable de gestion financière et développement, aux côtés d'Aurélie, ainsi que de Kathaline et Lisa qui contribuent également à cette famille élargie de CL INTERNATIONAL.",
+        "teamCaption": "De gauche à droite : Aurélie, Jérôme, Carina, Jimmy et David",
+        "ctaPrimary": "Explorer nos gammes",
+        "ctaSecondary": "Nous contacter"
+    },
+    "ContactPage": {
+        "hero": {
+            "breadcrumbHome": "Accueil",
+            "breadcrumbContact": "Contact",
+            "imageAlt": "Visuel d'illustration de la page contact CL INTERNATIONAL"
+        },
+        "eyebrow": "Contact & Devis",
+        "title": "Parlons de votre projet d'approvisionnement",
+        "subtitle": "Emballages alimentaires, vaisselle professionnelle, sourcing en Asie ou autres gammes : notre équipe étudie votre demande.",
+        "infoTitle": "Un accompagnement direct et réactif",
+        "infoDescription": "Précisez vos besoins, les produits recherchés ou vos objectifs d'approvisionnement pour recevoir une réponse adaptée.",
+        "location": "Pôle d'activités d'Aix-en-Provence (près de Marseille)",
+        "responseTime": "Réponse rapide par notre équipe dédiée.",
+        "form": {
+            "nameLabel": "Nom et prénom",
+            "namePlaceholder": "Ex. : Camille Dupont",
+            "companyLabel": "Entreprise",
+            "companyPlaceholder": "Nom de votre société",
+            "emailLabel": "Adresse e-mail",
+            "emailPlaceholder": "nom@entreprise.com",
+            "phoneLabel": "Téléphone",
+            "phonePlaceholder": "+33 6 00 00 00 00",
+            "rangeLabel": "Sujet / Gamme concernée",
+            "ranges": {
+                "packaging": "Emballages alimentaires & vaisselle professionnelle",
+                "customSourcing": "Sourcing sur-mesure / Asie",
+                "other": "Autre gamme ou demande d'information"
+            },
+            "messageLabel": "Votre message / besoin",
+            "messagePlaceholder": "Précisez vos produits, quantités estimées, délais ou questions...",
+            "submit": "Envoyer la demande",
+            "submitting": "Envoi en cours...",
+            "successMessage": "Merci, votre message a bien été envoyé. Notre équipe reviendra vers vous rapidement.",
+            "errorMessage": "Une erreur est survenue lors de l'envoi. Vous pouvez réessayer dans quelques instants."
+        }
+    },
+    "Services": {
+        "eyebrow": "Nos solutions",
+        "title": "Nos offres de services",
+        "intro": "Nous construisons des solutions sur mesure pour vos achats et approvisionnements, dans le cadre d'une méthode structurée en cinq étapes clés.",
+        "steps": {
+            "contact": {
+                "number": "01",
+                "title": "Prise de contact",
+                "description": "Fondamentale, cette première étape conditionne et oriente la mise en place et les modalités de réalisation du projet. Lors d'une rencontre physique et/ou d'un échange téléphonique, nous faisons connaissance afin d'établir les conditions d'une collaboration constructive. Nous vous présentons l'entreprise, son approche, ses méthodes de travail, ses savoir-faire et ses réalisations, puis nous écoutons et analysons vos besoins pour envisager les prestations les plus adaptées."
+            },
+            "audit": {
+                "number": "02",
+                "title": "Audit",
+                "description": "À ce stade, nous commençons à être force de propositions par un apport de méthodes et de conseils au service de la bonne réalisation de votre projet, en analysant et traitant ses principales dimensions :",
+                "technicalTitle": "Aspects techniques",
+                "technicalItems": [
+                    "Étude de faisabilité",
+                    "Élaboration et validation du produit",
+                    "Réception du cahier des charges et/ou des fiches techniques (possibilité de les définir ensemble)",
+                    "Détermination des termes de vente : target prices, Incoterms (points d'entrée et de sortie)"
+                ],
+                "legalTitle": "Aspects juridiques",
+                "legalItems": [
+                    "Assurances, garanties et réglementation du produit",
+                    "Conditions pour une vente future sur le marché cible (droits de douane, certification et homologation du produit)"
+                ],
+                "commercialTitle": "Aspects commerciaux",
+                "commercialItems": [
+                    "Contrats et conditions tarifaires"
+                ]
+            },
+            "sourcing": {
+                "number": "03",
+                "title": "Sourcing",
+                "description": "Une fois vos besoins clarifiés et définis, nous recherchons un panel de fournisseurs et procédons à une étude poussée pour sélectionner celui dont l'offre s'accordera le mieux à vos besoins (fiabilité, professionnalisme, efficacité, éthique, meilleur rapport qualité-prix), en appui sur la vérification approfondie de l'offre ainsi que la demande et l'analyse d'échantillons pour validation finale avec vous."
+            },
+            "negotiation": {
+                "number": "04",
+                "title": "Négociation",
+                "description": "Cette étape est déterminante pour accompagner votre processus d'approvisionnement dans sa version la plus rentable, en traitant au mieux de vos intérêts les enjeux liés aux délais, aux prix et aux garanties. Nous prenons la négociation entièrement en charge en étroite collaboration avec vous, sécurisons l'engagement contractuel (conformité entre échantillons et produit final) et définissons le mode de transport le plus adapté."
+            },
+            "followup": {
+                "number": "05",
+                "title": "Suivi",
+                "description": "À ce stade, nous travaillons sur la qualité du produit et le respect des normes techniques, environnementales et sociales. Nous proposons un contrôle qualité réalisé par des experts, coordonnons tous les aspects logistiques pour sécuriser l'importation et l'exportation, et assurons une gestion rigoureuse des commandes, des délais de livraison et des paiements internationaux."
+            }
+        }
+    },
+    "ClientBenefits": {
+        "eyebrow": "Bénéfices clients",
+        "title": "Nous concrétisons vos projets !",
+        "lead": "Nous disposons en Asie (et particulièrement en Chine, pays de naissance du fondateur) d'un réseau large et fiable de partenaires professionnels :",
+        "asiaNetwork": "Grâce à cet ancrage terrain, nous sécurisons chaque étape de votre chaîne d'approvisionnement jusqu'à la livraison finale.",
+        "partnersTitle": "Nos partenaires en Asie",
+        "partners": [
+            "Fournisseurs",
+            "Agents commerciaux",
+            "Agents logistiques"
+        ],
+        "capabilitiesTitle": "De ce fait, nous sommes notamment en mesure :",
+        "capabilities": [
+            "D'identifier rapidement les fabricants potentiels",
+            "De procéder sur place à un audit des usines, afin de déterminer leur sérieux et leur fiabilité et de sélectionner ainsi le meilleur fournisseur",
+            "De réaliser l'étude produit, conformément au cahier des charges, validée par la production d'un échantillon",
+            "De réunir l'ensemble des documents officiels (certificats), afin d'être en conformité avec les normes du marché français",
+            "D'assurer la qualité du conditionnement",
+            "De mettre en œuvre le transit et l'acheminement des marchandises jusqu'au client final"
+        ],
+        "inspectionNote": "À noter : avant chaque départ, la production est contrôlée par un organisme agréé.",
+        "guaranteesTitle": "Travailler avec CL INTERNATIONAL, c'est l'assurance :",
+        "guarantees": [
+            "D'une pleine efficacité",
+            "D'une rentabilité optimisée",
+            "D'une prestation réalisée dans les meilleurs délais (gain de temps)",
+            "D'une tranquillité d'esprit tout au long de la collaboration, jusqu'à la livraison du produit à sa destination finale"
+        ]
+    },
+    "References": {
+        "eyebrow": "Nos réalisations et références",
+        "title": "Nos réalisations et références",
+        "subtitle": "DIVERSITÉ ET ADAPTATION",
+        "tailorMadeIntro": "Conscient que chaque entreprise a des besoins uniques, nous proposons des services « sur mesure », c'est à dire spécifiques, adaptés, personnalisés et à forte valeur ajoutée.",
+        "experienceBadge": "ans d'expérience",
+        "experienceLead": "Nos 25 années d'expériences en commerce international ont forgé une « business culture », qui nous permet :",
+        "culturePoints": [
+            "De nous adapter à nos interlocuteurs du monde entier",
+            "De gérer efficacement les environnements multiculturels",
+            "D'intégrer les attentes et contextes spécifiques des pays d'appartenance des entreprises partenaires."
+        ],
+        "trackRecord": "À travers notre parcours, nous avons pu accompagner un grand nombre d'entreprises dans la concrétisation de leurs projets.",
+        "tailorMadeOutro": "Conscient que chaque entreprise a des besoins uniques, nous proposons des services « sur mesure », c'est à dire spécifiques, adaptés, personnalisés et à forte valeur ajoutée.",
+        "internationalDimension": "Imprégnés de la dimension internationale de notre activité, nous accompagnons dans le monde entier, les échanges commerciaux multiculturels."
     }
 }

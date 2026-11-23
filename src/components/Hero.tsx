@@ -6,19 +6,19 @@ const Hero = () => {
     const tContact = useTranslations('Contact');
 
     return (
-        <section className="relative w-full h-[85vh] min-h-125 flex items-center justify-center overflow-hidden bg-gray-900">
+        <section className="relative w-full h-[80vh] min-h-115 pt-16 flex items-center justify-center overflow-hidden bg-gray-900">
             <div className="absolute inset-0 z-0 w-full h-full scale-110 animate-ken-burns">
                 <Image
                     src="/images/cl-international-logistics.webp"
                     alt="C.L. INTERNATIONAL - Expert logistique et sourcing mondial"
                     fill
                     priority
-                    className="object-cover object-center"
+                    className="object-cover object-top"
                     quality={75}
                 />
             </div>
 
-            <div className="absolute inset-0 bg-[radial-gradient(circle,rgba(0,0,0,0.6)_0%,transparent_70%)]" />
+            <div className="absolute inset-0 bg-[radial-gradient(circle,rgba(0,0,0,0.6)_0%,transparent_60%)]" />
 
             <div className="absolute inset-0 bg-linear-to-t from-black/40 via-transparent to-transparent" />
 
@@ -28,13 +28,13 @@ const Hero = () => {
                     {tHome('title')}
                 </h1>
 
-                <div className="w-20 h-1.5 bg-[#8B0000] my-6 md:my-10 shadow-[0_0_15px_rgba(139,0,0,0.5)]" />
+                <div className="w-20 h-1.5 bg-[#8B0000] my-4 md:my-6 shadow-[0_0_15px_rgba(139,0,0,0.5)]" />
 
                 <p className="text-base sm:text-xl md:text-2xl text-gray-100 text-center max-w-3xl font-bold leading-relaxed drop-shadow-[0_2px_10px_rgba(0,0,0,0.8)] px-2">
                     {tHome('subTitle')}
                 </p>
 
-                <div className="mt-8 md:mt-12">
+                <div className="mt-6 md:mt-8">
                     <button className="px-10 py-4 bg-[#8B0000] hover:bg-red-800 text-white font-black rounded-md transition-all duration-300 shadow-2xl hover:shadow-[0_0_25px_rgba(139,0,0,0.5)] active:scale-95 uppercase tracking-[0.2em] text-xs border border-white/10">
                         {tContact('contactUs')}
                     </button>

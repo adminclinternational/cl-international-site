@@ -29,7 +29,7 @@ const Features = () => {
 
                 {/* TITRE DE SECTION - */}
                 <div className="mb-20">
-                    <div className="w-16 h-1.5 bg-[#8B0000] mb-6" />
+                    <div className="w-16 h-1.5 bg-brand-red mb-6" />
                     <h2 className="text-4xl md:text-5xl font-black text-gray-900 uppercase tracking-tighter">
                         {t('title')}
                     </h2>
@@ -40,7 +40,7 @@ const Features = () => {
                     {services.map((service, index) => (
                         <div key={index} className="flex flex-col items-start group">
                             {/* ICÔNE avec effet au survol */}
-                            <div className="mb-6 text-[#8B0000] transition-transform duration-300 group-hover:-translate-y-2">
+                            <div className="mb-6 text-brand-red transition-transform duration-300 group-hover:-translate-y-2">
                                 {service.icon}
                             </div>
 
