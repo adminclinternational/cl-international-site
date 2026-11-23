@@ -1,7 +1,25 @@
 @import "tailwindcss";
 
 @theme {
-  --color-primary: #0046ad;
+  /* --- Couleurs Principales (Identité CL International) --- */
+  --color-brand-red: #8B0000;
+  /* Rouge bordeaux signature (boutons, accents, chiffres clés) */
+  --color-brand-red-dark: #571818;
+  /* Bordeaux profond (cartes de catégories About) */
+  --color-brand-red-hover: #991b1b;
+  /* Rouge au survol (équivalent red-800) */
+  --color-brand-gold: #C49B48;
+  /* Or / Laiton (numérotation, filets, flèches) */
+
+  /* --- Fonds & Surfaces --- */
+  --color-surface-light: #fdfdfd;
+  /* Blanc cassé très léger  */
+  --color-surface-warm: #faf9f7;
+  /* Crème / Pierre claire (bannière StatsBanner) */
+  --color-surface-dark: #1a1a1a;
+  /* Anthracite profond (sections sombres ) */
+  --color-surface-obsidian: #151515;
+  /* Noir charbon (survol des cartes About) */
 }
 
 @layer base {

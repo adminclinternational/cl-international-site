@@ -3,6 +3,11 @@ import Hero from '@/components/Hero';
 import Features from '@/components/Features';
 import About from '@/components/About';
 import Expertise from '@/components/Expertise';
+import StatsBanner from '@/components/StatsBanner';
+import CompanyIntro from '@/components/CompanyIntro';
+import ServicesSection from '@/components/ServicesSection';
+import ClientBenefitsSection from '@/components/ClientBenefitsSection';
+import ReferencesSection from '@/components/ReferencesSection';
 
 export default async function Home({
     params
@@ -19,10 +24,13 @@ export default async function Home({
         <main >
 
             <Hero />
-
-            <About />
-
+            <StatsBanner />
+            <CompanyIntro />
             <Features />
+            <ServicesSection />
+            <ClientBenefitsSection />
+            <ReferencesSection />
+            <About />
 
             <Expertise />
 

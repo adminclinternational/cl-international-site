@@ -1,29 +1,34 @@
 {
     "--- NAVIGATION ---": "",
     "Navbar": {
-        "about": "About Us",
+        "about": "About",
         "services": "Services",
         "contact": "Contact",
-        "expertises": "Expertises",
+        "expertises": "Our Ranges",
         "expertiseItems": {
-            "wine": "Wines & spirits",
-            "industry": "Industry & BTP",
-            "luxury": "Luxury & packaging",
-            "tech": "Electronics & High Tech",
-            "design": "Furniture & Design",
-            "legal": "Audit & Legal"
+            "kraft": "Paper & Kraft",
+            "pulp": "Plant Pulp",
+            "wood": "Wooden Range",
+            "pet": "PET Range",
+            "cocktail": "Cocktail & Reusable",
+            "compliance": "Standards & Certifications"
+        },
+        "serviceItems": {
+            "offers": "Our service offerings",
+            "benefits": "Client benefits",
+            "references": "Track record & references"
         }
     },
     "--- BUTTON ---": "",
     "Contact": {
-        "contactUs": "Contact us",
+        "contactUs": "Contact Us",
         "send": "Send",
         "name": "Name",
         "email": "Email",
         "subject": "Subject",
         "message": "Message",
         "error": "Please fill in all fields.",
-        "success": "Your message has been successfully sent.",
+        "success": "Your message has been sent successfully.",
         "close": "Close",
         "loading": "Sending...",
         "sent": "Message sent",
@@ -32,19 +37,19 @@
     "--- HOME PAGE ---": "",
     "HomePage": {
         "title": "CL INTERNATIONAL",
-        "subTitle": "Optimize your purchases and boost your competitiveness with our expertise"
+        "subTitle": "Optimize your procurement and boost your competitiveness with our expertise in certified food packaging."
     },
     "--- FOOTER SECTION ---": "",
     "Footer": {
-        "description": "Global expert in trading and strategic sourcing. We connect businesses to the world's best production centers with total security.",
+        "description": "Global expert in strategic trading and sourcing of food packaging. We connect businesses to the best production centers with complete security.",
         "navTitle": "Navigation",
         "home": "Home",
-        "about": "About Us",
+        "about": "About",
         "services": "Services",
         "legalTitle": "Legal",
         "legalNotice": "Legal Notice",
         "privacy": "Privacy Policy",
-        "cookies": "Cookie Management",
+        "cookies": "Cookie Settings",
         "contactTitle": "Contact",
         "madeBy": "Made by"
     },
@@ -55,136 +60,306 @@
     },
     "--- LEGAL NOTICE PAGE ---": "",
     "Legal": {
-        "title": "LEGAL NOTICE AND TERMS & CONDITIONS",
-        "intro": "In accordance with the provisions of Articles 6-III and 19 of Law No. 2004-575 of June 21, 2004 for Confidence in the Digital Economy (L.C.E.N.), users of the clinternational.fr site are hereby informed of these legal notices and conditions of use.",
-        "section1Title": "1. SITE EDITION",
-        "section1Content": "This website is published by C.L. INTERNATIONAL, a SARL with a capital of €250,000.00.",
+        "title": "LEGAL NOTICE AND GENERAL TERMS",
+        "intro": "In accordance with the provisions of Articles 6-III and 19 of Law No. 2004-575 of June 21, 2004 on Confidence in the Digital Economy (L.C.E.N.), users of the website clinternational.fr are informed of these legal notices and terms of use.",
+        "section1Title": "1. WEBSITE PUBLISHER",
+        "section1Content": "This website is published by C.L. INTERNATIONAL, a limited liability company (SARL) with a share capital of €250,000.00.",
         "address": "Registered office: LE TERTIA II ZI LES MILLES, 5 RUE CHARLES DUCHESNE, 13290 AIX-EN-PROVENCE, FRANCE.",
-        "section2Title": "2. PUBLICATION DIRECTION",
-        "section2Content": "The person responsible for publication is Elsa LIM, as Manager.",
+        "section2Title": "2. PUBLICATION DIRECTOR",
+        "section2Content": "The Publication Director is Elsa LIM, in her capacity as Managing Director.",
         "section3Title": "3. DESIGN AND DEVELOPMENT",
-        "section3Content": "This site was designed and developed by SylvieDev.",
-        "section4Title": "4. SITE HOSTING",
-        "section4Content": "The site is hosted by Vercel Inc.",
-        "section5Title": "5. GENERAL TERMS OF USE",
+        "section3Content": "This website was designed and developed by SylvieDev.",
+        "section4Title": "4. WEBSITE HOSTING",
+        "section4Content": "This website is hosted by Vercel Inc.",
+        "section5Title": "5. GENERAL TERMS OF USE (GTU)",
         "ipTitle": "Intellectual Property:",
-        "ipContent": "The entirety of this site (structure, design, texts, logos, images, graphics) is the exclusive property of C.L. INTERNATIONAL, subject to the intellectual property rights of SylvieDev regarding the technical and graphic design of the site. Any reproduction or adaptation is prohibited without prior written authorization.",
+        "ipContent": "The entire website (structure, design, texts, logos, images, graphics) is the exclusive property of C.L. INTERNATIONAL, subject to the intellectual property rights of SylvieDev regarding the technical and graphic design of the site. Any reproduction or adaptation is prohibited without prior written authorization.",
         "liabTitle": "Limitation of Liability:",
-        "liabContent": "The publisher strives to ensure the accuracy of the information. However, it cannot be held responsible for omissions or update errors. The user uses this information under their exclusive responsibility.",
-        "section6Title": "6. GENERAL TERMS AND CONDITIONS OF SALE",
-        "section6Content": "The service and international trading services provided by the company are governed by our General Terms and Conditions of Sale.",
-        "cgvLink": "👉 CLICK HERE TO CONSULT OUR TERMS (PDF)",
+        "liabContent": "The publisher strives to ensure the accuracy of the information. However, it cannot be held liable for omissions or update errors. Users use this information under their sole responsibility.",
+        "section6Title": "6. GENERAL TERMS OF SALE (GTS)",
+        "section6Content": "The services and international trading provided by the company are governed by our General Terms of Sale.",
+        "cgvLink": "👉 CLICK HERE TO VIEW OUR GTS (PDF)",
         "section7Title": "7. APPLICABLE LAW",
-        "section7Content": "Any dispute in connection with the use of the site is subject to French law. Exclusive jurisdiction is given to the competent courts of Aix-en-Provence."
+        "section7Content": "Any dispute relating to the use of the website is subject to French law. Exclusive jurisdiction is granted to the competent courts of Aix-en-Provence."
     },
     "Features": {
         "title": "Our Global Expertise",
         "global": {
             "title": "Global Sourcing",
-            "description": "We identify and connect you with the best suppliers worldwide to meet your specific requirements."
+            "description": "We find the best suppliers worldwide tailored to your specific needs."
         },
         "sourcing": {
             "title": "Quality Control",
-            "description": "Rigorous inspection processes to ensure the compliance and quality of every shipment."
+            "description": "Rigorous inspection to guarantee sanitary and environmental compliance."
         },
         "logistics": {
             "title": "Total Logistics",
-            "description": "Ocean, air, and road freight solutions with real-time tracking and optimization."
+            "description": "Sea, air, and road freight with real-time tracking."
         },
         "compliance": {
             "title": "Customs & Security",
-            "description": "Comprehensive management of customs formalities and securing your international trade flows."
+            "description": "Complete management of customs formalities and supply chain security."
         }
     },
     "About": {
-        "seeExpertise": "Discover expertise",
+        "eyebrow": "Packaging & Tableware Range",
+        "title": "Food packaging, tableware and catering essentials",
+        "p1": "Among the various product lines offered by CL INTERNATIONAL, our food packaging and professional tableware range includes plates, cups, kraft containers, plant fibers, wooden cutlery, PET solutions, and eventware.",
+        "p2": "It is designed for foodservice, takeaway, and hospitality professionals, with careful attention to regulatory and food-safety requirements.",
+        "otherRangesNote": "Looking for another product line or sourcing category outside packaging?",
+        "otherRangesCta": "Talk to our team",
+        "seeExpertise": "Discover our ranges",
         "categories": {
-            "wine": "Dedicated logistics expertise for the delicate transport and preservation of your vintages.",
-            "industry": "Robust supply for your construction sites and management of your heavy equipment.",
-            "luxury": "Attention to detail and securing your high-value goods.",
-            "tech": "Responsiveness and precision for sourcing high-tech components and technologies.",
-            "design": "Careful volume management and delivery tailored to exceptional pieces.",
-            "legal": "Regulatory support and contractual securing of your global exchanges."
+            "kraft": "Eco-designed cups, pasta boxes, salad bowls, and pastry boxes.",
+            "pulp": "Compostable molded fiber tableware (plates, cups, GN pans).",
+            "wood": "FSC-certified double-waxed wooden cutlery, plates, and cocktail picks.",
+            "pet": "High-strength clear packaging, BPA-free, PFAS-free, and anti-fog.",
+            "cocktail": "Reusable event tableware (PP/PS) certified for 20 washes.",
+            "compliance": "Strict compliance with food contact standards, REACH, EUDR, and PFAS-free."
         },
         "sourcing": "Sourcing",
-        "seeMore": "See more",
-        "mainTitle": "WE SUPPORT YOU IN THE SUCCESS OF YOUR INTERNATIONAL SOURCING AND TRADING PROJECTS!",
+        "seeMore": "Learn more",
+        "mainTitle": "WE SUPPORT YOUR SUPPLY OF CERTIFIED FOOD PACKAGING!",
         "location": "Based in Aix-en-Provence • Since 1999",
-        "history": "CL INTERNATIONAL is a strategic company located in the heart of the Aix-en-Provence business hub. Founded in 1999 by Jimmy and Carina LIM, the company is built on over 25 years of \"Business experience.\"",
-        "evolution": "From the beginning, we have supported the distribution of diverse products (disposable tableware, industrial valves, wines & spirits...). To meet our clients' demands for sourcing optimization in Asia, we deployed a specialized sourcing unit backed by a solid professional network.",
-        "mission": "Today, CL INTERNATIONAL implements international trading to meet our clients' procurement needs with flexible and adaptable services, from design to final delivery.",
-        "productsTitle": "Product Expertise",
+        "history": "CL INTERNATIONAL is strategically located in the Aix-en-Provence business hub. Founded in 1999 by Jimmy and Carina LIM, the company builds on over 25 years of international trade experience.",
+        "evolution": "Specializing in sourcing and distributing food packaging and professional tableware, we select top manufacturing units in Asia to meet the needs of foodservice, snacking, and event professionals.",
+        "mission": "Today, we deliver reliable, tailor-made supply that is 100% compliant with the strictest European environmental and food-safety regulations.",
+        "productsTitle": "Our Packaging Solutions",
         "productList": {
-            "packaging": "Packaging",
-            "textile": "Textile",
-            "wood": "Timber logs",
-            "food": "Food products",
-            "furniture": "Furniture",
-            "perfume": "Perfumes",
-            "leather": "Leather goods",
-            "industrial": "Industrial molds",
-            "construction": "Construction materials"
+            "cups": "Cups & Verrines",
+            "boxes": "Pasta Boxes & Snacking Boxes",
+            "bowls": "Salad Bowls & Plates",
+            "gn": "Gastronorm (GN) Pans",
+            "cutlery": "Wooden & Reusable Cutlery",
+            "pastry": "Pastry Boxes",
+            "pet": "Anti-Fog PET Containers",
+            "cocktail": "Cocktail & Catering Range",
+            "custom": "Custom Sourcing"
         },
-        "flexibility": "A constantly expanding range of products to meet specific and modular requests."
+        "flexibility": "A complete range of disposable, compostable, and reusable packaging adapted to takeaway and foodservice needs."
     },
     "Expertise": {
-        "headerTag": "Cutting-Edge Expertise",
-        "headerTitle": "Multisectoral mastery without borders",
+        "headerTag": "Catalog & Certifications",
+        "headerTitle": "Packaging ranges compliant with European standards",
         "sections": {
-            "wine": {
-                "title": "Wines & Spirits",
-                "desc": "Leader in supporting vineyards for export to Asia and North America. We don't just transport bottles; we secure the value of your vintages and the integrity of your brand image internationally.",
+            "kraft": {
+                "title": "Paper & Kraft Range",
+                "desc": "Cardboard and kraft paper packaging solutions dedicated to fast food, snacking, and pastry, combining mechanical strength with environmental responsibility.",
                 "items": {
-                    "logistics": "Thermo-Control Logistics: Use of insulated containers (Reefer) and thermal shock solutions to preserve organoleptic qualities.",
-                    "customs": "Customs Engineering: Complex management of excise duties, import licenses, and local labeling compliance.",
-                    "protection": "Appellation Protection: Active monitoring against counterfeiting and legal securing of domain names and trademarks in target markets."
+                    "products": "Products: Cups, pasta boxes, salad bowls, cake boxes, and snacking packaging.",
+                    "compost": "Environmental Certifications: FSC certified, EUDR compliant (zero deforestation), Plastic Free, OK Compost Home & Industrial.",
+                    "safety": "Food Safety: Guaranteed food-contact certificate, 100% PFAS Free, BPA Free, compliant with REACH and POPs regulations."
                 }
             },
-            "industry": {
-                "title": "Industry, Construction & Energy",
-                "desc": "Sourcing of critical components and structural materials meeting the strictest European safety standards. We bridge the gap between Western engineering and Asian productive power.",
+            "pulp": {
+                "title": "Plant Pulp Range",
+                "desc": "Molded tableware made from natural plant fibers, ideal for institutional catering, events, and hot or cold takeaway meals.",
                 "items": {
-                    "molds": "Machining & Molds: Engineering of high-performance steel injection molds and precision CNC machining (Aluminum, Stainless Steel, Titanium).",
-                    "construction": "Finishing Works: Sourcing of CE-certified joinery, glazing, and structures adapted to modern building constraints.",
-                    "inspection": "Level II AQL Inspection: On-site technical factory validation with live video reports and mechanical resistance testing."
+                    "products": "Products: Plates, cups, and Gastronorm (GN) trays.",
+                    "compost": "Compost Labels: TÜV OK Compost Home & Industrial certified, guaranteed 100% Plastic Free.",
+                    "safety": "Sanitary Compliance: Certified food-grade contact, guaranteed PFAS Free, compliant with REACH and POPs."
                 }
             },
-            "luxury": {
-                "title": "Luxury Packaging & Cosmetics",
-                "desc": "Enhancing your products while guaranteeing an ethical and sustainable supply chain. We collaborate with luxury houses to transform packaging into a sensory experience.",
+            "wood": {
+                "title": "Wooden Range",
+                "desc": "A natural, elegant, and sturdy alternative to replace single-use plastics for catering services, events, and takeaway.",
                 "items": {
-                    "premium": "Premium Multi-materials: Lacquered wood boxes, brushed metal, rigid cardboard with high-fashion finishes (gilding, embossing).",
-                    "cosmetic": "Cosmetic Solutions: Glass bottling and airless pump systems guaranteeing the integrity of your formulas.",
-                    "eco": "Eco-responsible Sourcing: Integration of recycled (RPET) and bio-sourced materials (sugar cane fibers, bamboo)."
+                    "products": "Products: Wooden cutlery, plates, and cocktail accessories.",
+                    "treatment": "High-Quality Finish: Double-wax coating for optimal mouthfeel and enhanced moisture resistance.",
+                    "certifications": "Traceability & Safety: Wood sourced from sustainably managed forests (FSC certified) with full food-contact certification."
                 }
             },
-            "tech": {
-                "title": "Electronics & High-Tech",
-                "desc": "Integration of critical components and final product assembly. We manage technological complexity while rigorously protecting your intellectual property.",
+            "pet": {
+                "title": "High-Clarity PET Range",
+                "desc": "Transparent containers designed to showcase cold dishes, salads, and desserts while ensuring optimal preservation.",
                 "items": {
-                    "sourcing": "Component Sourcing: Supply of PCB boards, chips, and SMT/CMS assemblies even during global stock tensions.",
-                    "compliance": "Strict Compliance: Systematic RoHS, REACH certification and strict adherence to WEEE standards for secure market entry.",
-                    "tests": "Unit Testing: Implementation of functional unit testing protocols at the end of the production line for near-zero defect rates."
+                    "visibility": "Anti-Fog Treatment: Crystal-clear product visibility in refrigerated displays without condensation.",
+                    "safety": "Safe Formulation: Guaranteed Bisphenol A Free (BPA Free) and PFAS Free.",
+                    "compliance": "Food Standards: Compliant with strict European requirements for direct food contact."
                 }
             },
-            "design": {
-                "title": "Furniture & Interior Design",
-                "desc": "Supporting architects and hotel chains in the manufacture of custom furniture (FF&E). We transform your layout plans into tangible realities.",
+            "cocktail": {
+                "title": "Cocktail & Reusable Range",
+                "desc": "Durable event tableware engineered to meet legal reuse mandates while maintaining a refined aesthetic.",
                 "items": {
-                    "contract": "Contract Standards: Manufacture of hospitality furniture meeting the requirements of resistance and durability for intensive use.",
-                    "essences": "Wood Management: Strict control of wood origin and compliance with environmental certifications (FSC, PEFC).",
-                    "fire": "Fireproofing: Treatment of foams and fabrics in accordance with fire safety standards (M1, BS 5852) for public establishments."
+                    "products": "Products: Reusable PP (polypropylene) cutlery, reusable PS cups, and plastic verrines.",
+                    "durability": "High Resistance: Tested and certified to withstand at least 20 commercial dishwasher cycles.",
+                    "safety": "Food Safety: Validated food-grade testing and guaranteed BPA-free formulation."
                 }
             },
-            "legal": {
-                "title": "Audit & Legal Safeguard",
-                "desc": "Because international sourcing is a risky business, we reinforce your contracts and supplier relations to guarantee the sustainability of your company.",
+            "compliance": {
+                "title": "Quality Control & Regulatory Compliance",
+                "desc": "Because food packaging regulations are demanding, we audit every factory and verify all certificates prior to shipment.",
                 "items": {
-                    "contractual": "Contractual Security: Drafting of exclusivity agreements and non-disclosure agreements (NDA) adapted to local jurisdictions.",
-                    "financial": "Financial Intelligence: Full audit of the financial health of factories to anticipate any risk of failure during production.",
-                    "mediation": "Mediation & Disputes: In case of issues, our local teams intervene immediately to negotiate and resolve disputes at the source."
+                    "sanitary": "Chemical Safety: Systematic verification of the absence of harmful substances (PFAS Free, BPA Free, REACH, POPs).",
+                    "ecology": "Sustainable Traceability: Verification of FSC, EUDR certificates, and TÜV compostability labels (Home & Industrial).",
+                    "audit": "Factory Inspection: Validation of mechanical tests (wash resistance, anti-fog) and pre-shipment quality control."
                 }
             }
         }
+    },
+    "Stats": {
+        "experience": {
+            "label": "Years of Experience",
+            "sub": "Industry expertise since 1999"
+        },
+        "factories": {
+            "label": "Audited Factories",
+            "sub": "Across Asia and worldwide"
+        },
+        "containers": {
+            "label": "Containers Managed",
+            "sub": "Shipped and delivered safely"
+        },
+        "reactivity": {
+            "label": "Average Reactivity",
+            "sub": "Tailored quotes and estimates"
+        }
+    },
+    "CompanyIntro": {
+        "eyebrow": "Based in Aix-en-Provence • Since 1999",
+        "title": "We support your success in international sourcing and global trade projects",
+        "p1": "Located in the Aix-en-Provence business hub near Marseille, CL INTERNATIONAL has specialized in import-export and international sourcing since its founding in 1999 by Jimmy and Carina LIM.",
+        "p2": "Backed by over 25 years of experience, the company supports clients in distributing and optimizing their purchases—particularly across Asia—through a strong partner network and a dedicated sourcing team.",
+        "p3": "Our service is flexible and adaptable: generally from design to delivery, though we also handle one-off and modular requests. Over time, our services have expanded into many areas: packaging, textiles, timber logs, food products, furniture, perfumes, leather goods, industrial molds, and construction materials.",
+        "foundersCaption": "Jimmy and Carina LIM, founders of CL INTERNATIONAL",
+        "meetingCaption": "Project coordination and team discussions at CL INTERNATIONAL",
+        "teamEyebrow": "Your expert team",
+        "teamTitle": "Your partner for a profitable supply chain",
+        "teamP1": "CL INTERNATIONAL was founded in 1999 by Jimmy and Carina LIM. An enterprising, versatile duo who first built successful ventures across different fields (hospitality, sales, and more) before focusing on their core passion: international trade.",
+        "teamP2": "Through their backgrounds, Carina and Jimmy embody the meeting of two countries, China and Sweden, and two continents: Europe and Asia.",
+        "teamP3": "A distinctive strength of CL INTERNATIONAL is its family-driven spirit involving other members of the LIM family. Since 2011, their son David has been part of the journey, first as sales manager and now as commercial director. Then, in 2019, Jérôme LIM joined the team as head of financial management and development, alongside Aurélie, as well as Kathaline and Lisa who also contribute to the extended CL INTERNATIONAL family.",
+        "teamCaption": "From left to right: Aurélie, Jérôme, Carina, Jimmy and David",
+        "ctaPrimary": "Explore our ranges",
+        "ctaSecondary": "Contact us"
+    },
+    "ContactPage": {
+        "hero": {
+            "breadcrumbHome": "Home",
+            "breadcrumbContact": "Contact",
+            "imageAlt": "Background visual for CL INTERNATIONAL contact page"
+        },
+        "eyebrow": "Contact & Quotes",
+        "title": "Let's discuss your sourcing project",
+        "subtitle": "Food packaging, professional tableware, Asian sourcing, or other product lines: our team reviews every request.",
+        "infoTitle": "Direct and responsive support",
+        "infoDescription": "Share your requirements, target products, or sourcing goals so we can provide a tailored response.",
+        "location": "Aix-en-Provence business hub (near Marseille)",
+        "responseTime": "Prompt response from our dedicated team.",
+        "form": {
+            "nameLabel": "Full name",
+            "namePlaceholder": "e.g. Camille Dupont",
+            "companyLabel": "Company",
+            "companyPlaceholder": "Your company name",
+            "emailLabel": "Email address",
+            "emailPlaceholder": "name@company.com",
+            "phoneLabel": "Phone",
+            "phonePlaceholder": "+33 6 00 00 00 00",
+            "rangeLabel": "Topic / Product range",
+            "ranges": {
+                "packaging": "Food packaging & professional tableware",
+                "customSourcing": "Custom sourcing / Asia",
+                "other": "Other product range or general inquiry"
+            },
+            "messageLabel": "Your message / requirements",
+            "messagePlaceholder": "Share product details, estimated quantities, timelines, or questions...",
+            "submit": "Send inquiry",
+            "submitting": "Sending...",
+            "successMessage": "Thank you, your message has been sent. Our team will get back to you shortly.",
+            "errorMessage": "Something went wrong while sending your message. Please try again in a moment."
+        }
+    },
+    "Services": {
+        "eyebrow": "Our solutions",
+        "title": "Our service offerings",
+        "intro": "We build tailor-made purchasing and sourcing solutions through a structured five-step service process.",
+        "steps": {
+            "contact": {
+                "number": "01",
+                "title": "Initial contact",
+                "description": "This foundational first step shapes and guides how the project is set up and delivered. Through an in-person meeting and/or phone call, we get to know each other to establish the conditions for a constructive collaboration. We introduce our company, approach, working methods, expertise, and track record, then listen to and analyze your needs to determine the most suitable services."
+            },
+            "audit": {
+                "number": "02",
+                "title": "Audit",
+                "description": "At this stage, we begin actively proposing solutions by bringing methodology and advice to support the successful execution of your project, analyzing and addressing its core dimensions:",
+                "technicalTitle": "Technical aspects",
+                "technicalItems": [
+                    "Feasibility study",
+                    "Product development and validation",
+                    "Review of specifications and/or technical datasheets (with the option to define them together)",
+                    "Determination of sales terms: target prices and Incoterms (entry and exit points)"
+                ],
+                "legalTitle": "Legal aspects",
+                "legalItems": [
+                    "Insurance, warranties, and product regulations",
+                    "Conditions for future sale on the target market (customs duties, product certification, and approvals)"
+                ],
+                "commercialTitle": "Commercial aspects",
+                "commercialItems": [
+                    "Contracts and pricing terms"
+                ]
+            },
+            "sourcing": {
+                "number": "03",
+                "title": "Sourcing",
+                "description": "Once your needs are clarified and defined, we identify a supplier panel and conduct a thorough evaluation to select the partner whose offer best matches your requirements—focusing on reliability, professionalism, efficiency, ethics, and value for money—backed by in-depth offer verification and sample sourcing and analysis for final validation with you."
+            },
+            "negotiation": {
+                "number": "04",
+                "title": "Negotiation",
+                "description": "This step is key to supporting your sourcing process in its most cost-effective form, addressing lead times, pricing, and guarantees in your best interest. We handle negotiations in close collaboration with you, keep you updated with key information as discussions progress, secure contractual commitments ensuring full compliance between samples and the final product, and define the most suitable shipping method."
+            },
+            "followup": {
+                "number": "05",
+                "title": "Follow-up",
+                "description": "At this stage, we focus on product quality and compliance with technical, environmental, and social standards. We arrange expert quality inspections, coordinate all logistics aspects to facilitate and secure import and export operations, and ensure strict management of orders, delivery schedules, and international payments."
+            }
+        }
+    },
+    "ClientBenefits": {
+        "eyebrow": "Client benefits",
+        "title": "We bring your projects to life!",
+        "lead": "In Asia—and particularly in China, the founder's home country—we have a broad and reliable network of professional partners:",
+        "asiaNetwork": "With this on-the-ground presence, we safeguard every stage of your supply chain through to final delivery.",
+        "partnersTitle": "Our partners in Asia",
+        "partners": [
+            "Suppliers",
+            "Commercial agents",
+            "Logistics agents"
+        ],
+        "capabilitiesTitle": "As a result, we are able to:",
+        "capabilities": [
+            "Quickly identify potential manufacturers",
+            "Conduct on-site factory audits to assess reliability and credibility and select the best supplier",
+            "Carry out product development in line with specifications, validated through sample production",
+            "Gather all official documents (certificates) to ensure compliance with French market standards",
+            "Ensure packaging quality",
+            "Coordinate shipping and delivery of goods to the end customer"
+        ],
+        "inspectionNote": "Please note: before every shipment departs, production is inspected by an accredited body.",
+        "guaranteesTitle": "Working with CL INTERNATIONAL means ensuring:",
+        "guarantees": [
+            "Full operational efficiency",
+            "Optimized cost-effectiveness",
+            "Delivery within the best lead times (saving you time)",
+            "Complete peace of mind throughout the partnership, right up to final delivery at destination"
+        ]
+    },
+    "References": {
+        "eyebrow": "Track record & references",
+        "title": "Our track record and references",
+        "subtitle": "DIVERSITY AND ADAPTATION",
+        "tailorMadeIntro": "Aware that every company has unique needs, we offer tailor-made services—meaning specific, adapted, personalized, and high-value-added solutions.",
+        "experienceBadge": " years of experience",
+        "experienceLead": "Our 25 years of experience in international trade have shaped a business culture that enables us to:",
+        "culturePoints": [
+            "Adapt to stakeholders and partners around the world",
+            "Effectively manage multicultural environments",
+            "Integrate the expectations and specific contexts of partner companies' home countries."
+        ],
+        "trackRecord": "Throughout our journey, we have supported a wide range of businesses in bringing their projects to fruition.",
+        "tailorMadeOutro": "Aware that every company has unique needs, we offer tailor-made services—meaning specific, adapted, personalized, and high-value-added solutions.",
+        "internationalDimension": "Driven by the international scope of our business, we support multicultural commercial exchanges worldwide."
     }
 }
